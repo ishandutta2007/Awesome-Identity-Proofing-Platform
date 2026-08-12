@@ -39,7 +39,7 @@ A comprehensive, SEO-optimized curated list of leading identity proofing, eKYC/A
 
 ### 🚀 Core Frameworks, Biometric Libraries & eKYC Stacks
 
-| Project | GitHub Stars | Description | License | Focus Area |
+| Project | GitHub_Stars | Description | License | Focus Area |
 |---------|--------------|-------------|---------|------------|
 | **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** | [![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers) | Open-source optical character recognition (OCR) engine widely used for document and ID card text extraction. | Apache-2.0 | Document OCR & Data Extraction |
 | **[InsightFace](https://github.com/deepinsight/insightface)** | [![GitHub stars](https://img.shields.io/github/stars/deepinsight/insightface?style=social&color=white)](https://github.com/deepinsight/insightface/stargazers) | State-of-the-art open-source 2D/3D face analysis, facial recognition, and anti-spoofing liveness framework. | MIT | Face Matching & Liveness |
