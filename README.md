@@ -1,6 +1,6 @@
 # Awesome-Identity-Proofing-Platform
 
-# Top Identity Proofing Platforms
+## Top Identity Proofing Platforms
 
 A curated list of leading identity proofing and verification platforms for KYC/AML compliance, document authentication, biometric face matching, liveness detection, age assurance, and fraud prevention.  
 **Primary focus: open-source software.**
